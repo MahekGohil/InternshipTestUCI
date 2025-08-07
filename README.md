@@ -47,7 +47,7 @@ How would you design a system that takes a blog article and uses an LLM to creat
 
 ### 3. Website/POC Generator Flow
 **Question:**  
-You need to build a flow where a user gives a one-line business idea and the system generates a basic website scaffold using LLM + templating. Explain the architecture and where you’d use AI vs traditional code.  
+You need to build a flow where a user gives a one-line business idea and the system generates a basic website scaffold using LLM + templating. Explain the architecture and where you'd use AI vs traditional code.  
 **Skill tested:**  
 - AI system design thinking  
 - Architectural reasoning
@@ -119,14 +119,12 @@ Generate a JSON or plain text report summarizing the validation results.
     "qualification": "pass"
   }
 }
+```
 
 ### Constraints
 
 - Use **Python**.
-
-- **Recommended libraries**:  
-  `pdfminer.six`, `PyMuPDF (fitz)`, `pdfplumber`, `PyPDF2`, `pytesseract`.
-
+- **Recommended libraries**: `pdfminer.six`, `PyMuPDF (fitz)`, `pdfplumber`, `PyPDF2`, `pytesseract`.
 - **Optional**: Use an LLM (e.g., OpenAI, Cohere, or local models) for fuzzy section detection.
 
 ---
@@ -162,20 +160,18 @@ Inside it, include:
 - `PDFAnalyzer/` → for Part 3
 
 #### Example:
+```
 Aditya/
 ├── EDA/
-│ └── nyc_taxi_eda.ipynb
+│   └── nyc_taxi_eda.ipynb
 ├── Q3/
-│ └── website_skeleton_architecture.md
+│   └── website_skeleton_architecture.md
 ├── PDFAnalyzer/
-│ ├── pdf_checker.py
-│ ├── sample_invalid.pdf
-│ └── README.md
+│   ├── pdf_checker.py
+│   ├── sample_invalid.pdf
+│   └── README.md
 └── README.md
-
-yaml
-Copy
-Edit
+```
 
 ---
 
@@ -187,4 +183,3 @@ Edit
 ---
 
 If you face any issue during the test, please reach out to the coordinator immediately.
-
