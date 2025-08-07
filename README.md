@@ -165,4 +165,21 @@ Aditya/
 │   └── README.md
 └── README.md
 ```
-If you face any issue during the test, please reach out to the coordinator immediately.
+
+---
+
+### Git Submission Requirements
+
+#### Pull Request Creation
+- **After completing your code**, create a **Pull Request (PR)** to submit your solution.
+- Ensure your PR includes all required files and follows the folder structure mentioned above.
+- Add a clear PR title and description summarizing your work.
+
+#### Important Note on Git Knowledge
+- **We expect candidates to have basic Git knowledge** and will **NOT provide support for Git-related issues**.
+- This includes but is not limited to: cloning repositories, creating branches, committing changes, pushing code, and creating pull requests.
+- If you encounter Git problems, please resolve them independently as this is considered a fundamental skill for the role.
+
+---
+
+If you face any issue during the test (excluding Git-related problems), please reach out to the coordinator immediately.
