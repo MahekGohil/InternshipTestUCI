@@ -7,7 +7,7 @@
 
 ---
 
-## Part 1: EDA Task (Compulsory)
+## Part 1: EDA Task(Any one) (Compulsory)
 
 ### Dataset Links:
 - [Retail Store Sales (Dirty) - Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
@@ -53,13 +53,6 @@ You need to build a flow where a user gives a one-line business idea and the sys
 - Architectural reasoning
 
 ---
-
-### 4. Prompt Chaining for Content Creation
-**Question:**  
-Given a requirement to create both a product title and a meta description from the same input CSV row, how would you design the prompts so that both outputs are coherent and optimized for SEO?  
-**Skill tested:**  
-- Prompt engineering  
-- LLM output consistency
 
 ---
 
@@ -172,14 +165,4 @@ Aditya/
 │   └── README.md
 └── README.md
 ```
-
----
-
-### How to Submit
-
-- **Zip the main folder** (e.g., `Aditya.zip`)  
-- Upload it via the **portal/form** shared with you.
-
----
-
 If you face any issue during the test, please reach out to the coordinator immediately.
