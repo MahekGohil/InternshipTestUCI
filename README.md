@@ -10,8 +10,9 @@
 ## Part 1: EDA Task(Any one) (Compulsory)
 
 ### Dataset Links:
-- [Retail Store Sales (Dirty) - Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
-- [NYC Taxi Trip Records (Recommended - Parquet)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+- Retail Store Sales (Dirty) – attached in the email you received  
+- NYC Taxi Trip Records (Recommended – Parquet) – attached in the email you received
+
 
 ### What You Need To Do:
 1. **Download** any one of the datasets.
